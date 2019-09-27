@@ -5,10 +5,15 @@
 // Create a new array called 'faveColors' and set it your three favorite colors as strings.
 
 // CODE HERE
+ var faveColors = ["red" , "pink", "green"]
+
 
 //////////////////Step 2////////////////////
 // Create an object called 'me' that has these keys: firstname, superHeroName, homeTown, superPowers, superPowerXP, profileImage. 
 
+var me = {
+    "firstname, superHeroName, homeTown, superPowers, superPowerXP, profileImage"
+}
 // The firstName key should be your name as a string. 
 
 // The superHeroName key should be something fun, feel free to jazz it up e.g. "Bodacious Bryan". 
@@ -23,10 +28,28 @@
 
 // CODE HERE
 
+var myObj = {
+
+    firstName: "Fei",
+    lastName: "Williams",
+    age: 39,
+    hometown: "XiangYang",
+    superHeroName: "Myself",
+    superPowers: "love, care, needs",
+}
+
+    function superPowerXP(min, max) {
+    return Math.floor(Math.random() * 101) + 1;}
+
+    function profileImage 
+
+
 //////////////////Step 3////////////////////
 // Create three variables to hold some data off your me object. The first variable should be 'regularName' that is the value of your firstName on the me object. The next variable is 'superName' which is the value of superHeroName on the me object. Last is 'homeTown' which will be the value of homeTown on the me object
 
 // CODE HERE
+
+
 
 //////////////////Step 4////////////////////
 //Create a function called 'setColor' that takes in one param called arr. Just to make sure that we only ever have three colors, use splice to trim the array to 3 colors. 

@@ -4,11 +4,15 @@
 
 // Code here
 
+var myName = "Fei"
+
 //////////////////PROBLEM 2////////////////////
 
 // Create a variable called 'faveNum' that's value is your favorite number
 
 //Code here
+
+var faveNum = 7
 
 //////////////////PROBLEM 3////////////////////
 
@@ -16,11 +20,16 @@
 
 //Code here
 
+var lovesCode = true
+
+
 //////////////////PROBLEM 4////////////////////
 
 // Create a function called 'sum' that takes in two parameters, num1 and num2, and returns the sum of those two parameters.
 
 //Code here
+
+var sum = num1 + num2 
 
 //////////////////PROBLEM 5////////////////////
 
@@ -28,11 +37,23 @@
 
 //Code here
 
+function lovesCodeChecker {
+	var x = true; 
+}
+
+
+
+
 //////////////////PROBLEM 6////////////////////
 
 // Create a function called 'oddChecker' that takes in one parameter, num. Check to see if the number is even or odd. If it is odd, return 'the number is odd' or return 'the number is even' if it is even.
 
 //Code here
+
+function oddChecker {
+
+	
+}
 
 //////////////////PROBLEM 7////////////////////
 
