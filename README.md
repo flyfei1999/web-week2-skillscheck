@@ -4,6 +4,8 @@
 
 9/26/19 Added home page.
 
+I love code.
+
 ## Summary
 
 - This project consists of 4 JavaScript parts and 1 HTML/CSS mockup.
