@@ -1,14 +1,18 @@
 # SkillsCheck
 
+# change logs
+
+9/26/19 Added home page.
+
 ## Summary
 
-* This project consists of 4 JavaScript parts and 1 HTML/CSS mockup.
-  * The HTML/CSS module has instructions in it's README for expectations.
-  * The JavaScript modules have instructions and tests associated using SpecRunner that you will open in the browser.
-  * If you get stuck, move on and come back to the problem later.
-* You have the whole day to work on this and should get as far as you can.
-* Your mentors can help push you in the right direction, but the code should be your own.
-* Use this as an opportunity to check your progress and work with your instructor to decide what your focus should be in the coming weeks during your evenings and weekends.
+- This project consists of 4 JavaScript parts and 1 HTML/CSS mockup.
+  - The HTML/CSS module has instructions in it's README for expectations.
+  - The JavaScript modules have instructions and tests associated using SpecRunner that you will open in the browser.
+  - If you get stuck, move on and come back to the problem later.
+- You have the whole day to work on this and should get as far as you can.
+- Your mentors can help push you in the right direction, but the code should be your own.
+- Use this as an opportunity to check your progress and work with your instructor to decide what your focus should be in the coming weeks during your evenings and weekends.
 
 ## Contributions
 
